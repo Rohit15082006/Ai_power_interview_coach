@@ -86,4 +86,6 @@ import json
 import os
 import hashlib
 
+and also setup a virtual environment if the libraries are not working 
+
 these are the necessary libraries for this project to run 
